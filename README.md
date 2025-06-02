@@ -5,7 +5,7 @@
 <div  align="center" >
   - 🔭 Atualmente estou trabalhando com Infra.
   <br>
-- 🌱 Atualmente estou Estudando HTML, CSS, JS, PHP, C#, BootStrap, MySQL...
+- 🌱 Atualmente estou Estudando HTML, CSS, JS, PHP, C#, .Net, BootStrap, MySQL...
 </div>
 <br>
 
