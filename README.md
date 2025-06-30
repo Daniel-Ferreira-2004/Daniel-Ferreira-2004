@@ -3,9 +3,9 @@
 </h1>
 
 <div  align="center" >
-  - 🔭 Atualmente estou trabalhando com Infra.
+  - 🔭 Estou trabalhando com Infra.
   <br>
-- 🌱 Atualmente estou Estudando HTML, CSS, JS, PHP, C#, .Net, BootStrap, MySQL...
+- 🌱 Atualmente estou Estudando PHP, C#, .Net, EF core, JS, BootStrap, MySQL, HTML, CSS ...
 </div>
 <br>
 
