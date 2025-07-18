@@ -2,8 +2,15 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Daniel!;" />
 </h1>
 
+<h2 align="center">👋 Sobre mim
+</h2>
+<p>Sou um desenvolvedor .NET júnior, com muita vontade de aprender, evoluir e fazer a diferença na área de tecnologia. Tenho conhecimentos em C#, Entity Framework Core e MySQL, além de experiência em desenvolvimento web com HTML, CSS, JavaScript, PHP, Bootstrap e Angular.
+</p>
+
 <div  align="rigth" >
-👋 Sobre mim
+  <h2 align="center">😎 Conhecimentos
+</h2>
+
 💻 Desenvolvedor .NET Júnior
 
 🚀 Apaixonado por tecnologia e sempre buscando evoluir
@@ -46,8 +53,6 @@ Aberto a feedbacks e trocas de conhecimento
 
 📬 Vamos conversar?
 Se quiser trocar ideias, colaborar ou dar um feedback, fique à vontade para entrar em contato!
-
-
 </div>
 <br>
 
