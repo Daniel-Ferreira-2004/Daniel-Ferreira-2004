@@ -2,10 +2,52 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Daniel!;" />
 </h1>
 
-<div  align="center" >
-  - 🔭 Estou trabalhando com Infra.
-  <br>
-- 🌱 Atualmente estou Estudando PHP, C#, .Net, EF core, JS, BootStrap, MySQL, HTML, CSS ...
+<div  align="rigth" >
+👋 Sobre mim
+💻 Desenvolvedor .NET Júnior
+
+🚀 Apaixonado por tecnologia e sempre buscando evoluir
+
+🎯 Focado em aprender na prática e construir projetos úteis
+
+🧠 Conhecimentos Técnicos
+Backend
+- C# com .NET
+
+- Entity Framework Core
+
+- MySQL
+
+- Frontend
+- HTML5, CSS3
+
+- JavaScript
+
+- Bootstrap
+
+- Angular
+
+Outros
+- PHP básico
+
+- Versionamento com Git/GitHub
+
+📌 O que estou buscando
+Aprimorar minhas habilidades como desenvolvedor full stack
+
+Participar de projetos reais e colaborativos
+
+Contribuir com soluções que façam sentido para o usuário final
+
+📚 Estudo constante
+Sempre estudando novas tecnologias e boas práticas
+
+Aberto a feedbacks e trocas de conhecimento
+
+📬 Vamos conversar?
+Se quiser trocar ideias, colaborar ou dar um feedback, fique à vontade para entrar em contato!
+
+
 </div>
 <br>
 
