@@ -60,7 +60,7 @@ Se quiser trocar ideias, colaborar ou dar um feedback, fique à vontade para ent
 
 <div>
 <a href="https://github.com/daniel-ferreira-2004">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ferreira-2004&layout=compact&langs_count=7&theme=dracul"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ferreira-2004&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 <a href="https://github.com/daniel-ferreira-2004">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniel-ferreira-2004&show_icons=true&theme=dracula"/>
