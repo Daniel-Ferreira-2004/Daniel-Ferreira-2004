@@ -58,15 +58,12 @@ Se quiser trocar ideias, colaborar ou dar um feedback, fique à vontade para ent
 
 <div  align="center" >
 
-<div>
-<a href="https://github.com/daniel-ferreira-2004">
-  <img height="180px"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniel-ferreira-2004&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800"/>
-</a>
-<a href="https://github.com/daniel-ferreira-2004">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniel-ferreira-2004&show_icons=true&theme=dracula"/>
-</a>
-</div>
+### 🛠️ Tecnologias
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
